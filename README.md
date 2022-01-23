@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehulArora-7
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning development of static websites
+- 🌱 I’m currently learning development of static websitesx
 
 <!---
 MehulArora-7/MehulArora-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
